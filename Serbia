@@ -7,8 +7,6 @@ http://w10.streamgb.com:1935/dugaplus/dugaplus/chunklist_w73121005.m3u8
 http://178.253.194.75:1935/live/_definst_/hram.stream/chunklist_w372293947.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Entertainment",TV7
 https://puma.gjirafa.com/live/ZvTsY6MH7RPPvXuUDjRjcEYkK7yryigW/yzg0yt240/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",Radio S1
-http://91.148.117.134:1935/radios/radiosweb.stream/playlist.m3u8
 #EXTINF:0 tvg-id="RTVMONTENEGROSat.rs" group-title="Music",RTCG Sat
 http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.2.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",Telegraf TV
@@ -21,33 +19,6 @@ http://tva.fastbroad.com:80/i/tvboin_1@380599/index_2000_av-p.m3u8
 https://puma.gjirafa.com/live/ZvTsY6MH7RPPvXuUDjRjcEYkK7yryigW/yzg0yt240/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",Yu Planet TV
 http://92.51.131.28:8081/YuPlanet/asojnd233oimwxoe2/playlist.m3u8
-
-#EXTINF:1 tvg-id="lnk-lt" group-title="LT TV",01 LNK LT
-http://185.176.117.243/live/eds/LNK/HLS_encr/index.m3u8
-
-#EXTINF:2 tvg-id="lrt" group-title="LT TV",02 LRT LT
-http://185.176.117.243/live/eds/LRT/HLS_encr/index.m3u8
-
-#EXTINF:3 tvg-id="ext" group-title="LT TV",04 LRT Lithuania LT
-http://185.176.117.243/live/eds/LRT_Lithuania/HLS_encr/index.m3u8
-
-#EXTINF:4 tvg-id="sport1-lt" group-title="LT TV",05 Sport1 LT
-http://185.176.117.243/live/eds/Sport1/HLS_encr/index.m3u8
-
-#EXTINF:5 tvg-id="TV3.ie" group-title="LT TV",03 TV3 LT
-http://185.176.117.243/live/eds/TV3_LT_HD/HLS_encr/index.m3u8
-
-#EXTINF:6 tvg-id="tv6-lat" group-title="LT TV",06 TV6 LT
-http://185.176.117.243/live/eds/TV6_LT_SD/HLS_encr/index.m3u8
-
-#EXTINF:7 tvg-id="tv8-lt" group-title="LT TV",07 TV8 LT
-http://185.176.117.243/live/eds/TV8_LT_SD/HLS_encr/index.m3u8
-
-#EXTINF:8 tvg-id="ext" group-title="LT TV",08 Epic Drama LT
-http://185.176.117.242/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
-
-
-
 
 #EXTINF:12,Three New Zealand
 http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master_720.m3u8
