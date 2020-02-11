@@ -20,6 +20,34 @@ https://puma.gjirafa.com/live/ZvTsY6MH7RPPvXuUDjRjcEYkK7yryigW/yzg0yt240/index.m
 #EXTINF:0 tvg-id="ext" group-title="Music",Yu Planet TV
 http://92.51.131.28:8081/YuPlanet/asojnd233oimwxoe2/playlist.m3u8
 
+#EXTM3U
+#EXTINF:1 tvg-id="lnk-lt" group-title="LT TV",01 LNK LT
+http://185.176.117.243/live/eds/LNK/HLS_encr/index.m3u8
+
+#EXTINF:2 tvg-id="lrt" group-title="LT TV",02 LRT LT
+http://185.176.117.243/live/eds/LRT/HLS_encr/index.m3u8
+
+#EXTINF:3 tvg-id="ext" group-title="LT TV",04 LRT Lithuania LT
+http://185.176.117.243/live/eds/LRT_Lithuania/HLS_encr/index.m3u8
+
+#EXTINF:4 tvg-id="sport1-lt" group-title="LT TV",05 Sport1 LT
+http://185.176.117.243/live/eds/Sport1/HLS_encr/index.m3u8
+
+#EXTINF:5 tvg-id="TV3.ie" group-title="LT TV",03 TV3 LT
+http://185.176.117.243/live/eds/TV3_LT_HD/HLS_encr/index.m3u8
+
+#EXTINF:6 tvg-id="tv6-lat" group-title="LT TV",06 TV6 LT
+http://185.176.117.243/live/eds/TV6_LT_SD/HLS_encr/index.m3u8
+
+#EXTINF:7 tvg-id="tv8-lt" group-title="LT TV",07 TV8 LT
+http://185.176.117.243/live/eds/TV8_LT_SD/HLS_encr/index.m3u8
+
+#EXTINF:8 tvg-id="ext" group-title="LT TV",08 Epic Drama LT
+http://185.176.117.242/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
+
+
+
+
 #EXTINF:12,Three New Zealand
 http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master_720.m3u8
 
@@ -29,10 +57,8 @@ http://190.80.3.28/PBS/PBS.isml/PBS-audio_120052_eng=120000-video=1870000.m3u8
 #EXTINF:14,CBS
 http://161.0.157.51/PLTV/88888888/224/3221227041/03.m3u8
 
-#EXTINF:15,NBC
-https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:nbc.smil/chunklist_b700000.m3u8
 
-#EXTINF:16,Ch.Seven
+#EXTINF:16,Fox PS
 http://190.80.3.28/FOX/FOX.isml/FOX-audio_128052_eng=128000-video=800000.m3u8
 
 #EXTINF:17,Nickelodeon
@@ -56,17 +82,11 @@ https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD-avc1_2499968=7-
 #EXTINF:25,Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 
-#EXTINF:26,ESPN US
-https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/chunklist_b300000.m3u8
-
 #EXTINF:30,Fox News Channel
 https://liveanevia.mncnow.id/live/eds/FoxNews/sa_hls/FoxNews-avc1_499968=8-FoxNews-mp4a_66000_eng=2.m3u8
 
 #EXTINF:31,MSNBC HD
 http://claro2-pi-dns.herokuapp.com/master.php?id=306&f=.m3u8
-
-#EXTINF:36,Sky News
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/02.m3u8
 
 #EXTINF:38,Al Jazeera English
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index576.m3u8
@@ -140,7 +160,7 @@ https://anevia115.mncnow.id:443/live/eds/FoxSports2/sa_hls/FoxSports2-avc1_24999
 #EXTINF:78,Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
-#EXTINF:79,beIN Sports 1
+#EXTINF:79,BEIN Sports
 https://anevia114.mncnow.id/live/eds/BeIN1/sa_hls/BeIN1-avc1_2499968=11-BeIN1-mp4a_98800_eng=3.m3u8
 
 #EXTINF:80,Tennis Channel
@@ -170,14 +190,8 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg13_adaptive.smil/chunkl
 #EXTINF:91,World Fashion Channel
 https://wfcint.mediacdn.ru/cdn/wfcint/playlist_sdlow.m3u8
 
-#EXTINF:93,MTV
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_1250_av-p.m3u8?sd=10&rebase=on
-
 #EXTINF:97,Outdoor
 https://dl.dropbox.com/s/b0m53oaf0li7fv8/Outdoor.m3u8
-
-#EXTINF:98,UN Web
-https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_828_av-p.m3u8
 
 #EXTINF:99,NASA TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
@@ -218,9 +232,6 @@ https://anevia115.mncnow.id/live/eds/AustraliaPlus/sa_hls/AustraliaPlus-avc1_499
 #EXTINF:145,Plant-Based Network
 https://hls-cdn.tvstartup.net/barakyah-channel/live/pbtv/chunklist_w1880221002.m3u8
 
-#EXTINF:151,The CW
-http://190.80.3.28/CW/CW.isml/CW-audio_128052_eng=128000-video=500000.m3u8
-
 #EXTINF:0 tvg-id="TraceAFRICA.fr" group-title="Music",Trace Africa
 https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8?fluxustv.m3u8
 
@@ -260,12 +271,8 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 #EXTINF:0 tvg-id="SkyNews.uk" group-title="News",Sky News
 http://ax.micaesoft.com/YMitv/YMITV_UK_UKskytv_2.m3u8?fluxustv.m3u8
 
-#EXTINF:0 tvg-id="RussiaToday.uk" group-title="News",RT UK
-http://rt-uk.secure.footprint.net/1106.m3u8?streamType=live
-
 #EXTINF:0 tvg-id="CNBC.nws" group-title="Movies",ENT CNBC
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/1280x720_2108000/chunklist.m3u8
-
 
 #EXTINF:0 tvg-id="ext" group-title="News",NewsNet
 http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
@@ -504,4 +511,3 @@ http://185.176.117.242/live/eds/Viasat_Nature_SD/HLS_encr/Viasat_Nature_SD.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Entertainment",X Jasmin TV
 http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
-
