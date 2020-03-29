@@ -56,4 +56,34 @@ https://thegateway.app/YouToo/CueTones/playlist.m3u8
 #EXTINF:218,Biz TV HD
 https://thegateway.app/BizAndYou/Biz_1080p/playlist.m3u8
 
+#EXTINF:18,Nickelodeon
+http://ott.artmott.com/Nickelodeon/tracks-v1a1/mono.m3u8
+
+#EXTINF:20,Boomerang
+http://livecdnh3.tvanywhere.ae/hls/boomerang/03.m3u8
+
+#EXTINF:58,Comedy Dynamics
+https://a.jsrdn.com/broadcast/5Gt2c8lsw/c.m3u8
+
+#EXTINF:59,Star World
+http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
+
+#EXTINF:80,The T
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/f.m3u8
+
+#EXTINF:86,DocuBox
+http://livecdnh3.tvanywhere.ae/hls/docubox/03.m3u8
+
+#EXTINF:105,The First
+https://a.jsrdn.com/broadcast/h3h4gsui4/playlist480p.m3u8
+
+#EXTINF:118,CBN
+https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/index_500_av-b.m3u8
+
+#EXTINF:165,Free Speech
+https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+
+#EXTINF:209,ABC News Live HD
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
 
