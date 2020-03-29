@@ -18,7 +18,6 @@ http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 #EXTINF:83,Nat Geo People
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
 
-
 #EXTINF:85,National Geographic
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 
@@ -28,19 +27,14 @@ http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
 #EXTINF:100,Outdoor Channel
 http://84.22.33.254/unicast.outdoorchannel/index.m3u8
 
-
 #EXTINF:137,Camera Smile TV
 https://playout4multirtmp.tulix.tv/live7/Stream1/playlist.m3u8
-
 
 #EXTINF:216,Plant-Based Network HD
 https://hls-cdn.tvstartup.net/barakyah-channel/live/pbtv/chunklist_w1880221002.m3u8
 
 #EXTINF:217,Youtoo America HD
 https://thegateway.app/YouToo/CueTones/playlist.m3u8
-
-#EXTINF:218,Biz TV HD
-https://thegateway.app/BizAndYou/Biz_1080p/playlist.m3u8
 
 #EXTINF:20,Boomerang
 http://livecdnh3.tvanywhere.ae/hls/boomerang/03.m3u8
@@ -59,5 +53,8 @@ https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/index_500_av-b.m3u8
 
 #EXTINF:209,ABC News Live HD
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:34,Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 
 
