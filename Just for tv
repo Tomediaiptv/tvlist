@@ -47,9 +47,6 @@ http://18.191.91.130:1935/live/safetv/playlist.m3u8
 https://playout4multirtmp.tulix.tv/live7/Stream1/playlist.m3u8
 
 
-#EXTINF:213,Olympic Channel HD
-http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
-
 #EXTINF:216,Plant-Based Network HD
 https://hls-cdn.tvstartup.net/barakyah-channel/live/pbtv/chunklist_w1880221002.m3u8
 
