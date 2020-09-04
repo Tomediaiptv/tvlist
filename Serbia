@@ -1,17 +1,6 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Entertainment",Studio B
-http://195.252.96.7:1935/webstudiob/webstudiob.stream/chunklist_w457924147.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",Duga Plus
-http://w10.streamgb.com:1935/dugaplus/dugaplus/chunklist_w73121005.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Entertainment",TV Hram
-http://178.253.194.75:1935/live/_definst_/hram.stream/chunklist_w372293947.m3u8
-#EXTINF:0 tvg-id="RTVMONTENEGROSat.rs" group-title="Music",RTCG Sat
-http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.2.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",Telegraf TV
-http://now.tf.rs/2016/11/3/RETROSPEKTIVA_0211/RETROSPEKTIVA_0211.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",Televizija Leskovac
-http://best.str.nettvplus.com:8080/stream/?channel=tvleskovac&stream=1mb&sp=nettvplus?u=X0B2YB95
-#EXTINF:0 tvg-id="ext" group-title="Music",TV Boin
-http://tva.fastbroad.com:80/i/tvboin_1@380599/index_2000_av-p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",Yu Planet TV
-http://92.51.131.28:8081/YuPlanet/asojnd233oimwxoe2/playlist.m3u8
+#EXTINF:-1 group-title="Lietuviški" tvg-id="lrt-lituanica" tvg-logo="https://iptvx.one/icn/lrt-lituanica.png",LRT Lituanica hls
+http://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8
+https://cdnlb.tvplayhome.lt/live/eds/TV3_LT_SD/H1s_0utput/TV3_LT_SD.m3u8
+https://cdnlb.tvplayhome.lt/live/eds/TV6_LT_SD/H1s_0utput/TV6_LT_SD.m3u8
+
