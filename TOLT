@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1,1 LRT
+#EXTINF:-1,LRT
 http://iptv.mrtv.lt:8080/LRT/video.m3u8
-#EXTINF:-1,2 LNK
+#EXTINF:-1,LNK
 http://iptv.mrtv.lt:8080/LNK/video.m3u8
-#EXTINF:-1,3 TV3
+#EXTINF:-1,TV3
 http://iptv.mrtv.lt:8080/TV3/video.m3u8
-#EXTINF:-1,4 BTV
+#EXTINF:-1,BTV
 http://iptv.mrtv.lt:8080/BTV/video.m3u8
-#EXTINF:-1,5 LIETUVOS RYTAS
+#EXTINF:-1,LIETUVOS RYTAS
 http://iptv.mrtv.lt:8080/LRYTAS/video.m3u8
-#EXTINF:-1,6 TV6
+#EXTINF:-1,TV6
 http://iptv.mrtv.lt:8080/TV6/video.m3u8
-#EXTINF:-1,7 LRTPLIUS
+#EXTINF:-1,LRTPLIUS
 http://iptv.mrtv.lt:8080/LRTPLIUS/video.m3u8
 
 #EXTINF:-1 ,RU TV HD
@@ -20,3 +20,5 @@ http://rutv.gcdn.co/streams/1410_95/playlist.m3u8
 http://livetv.powerapp.com.tr/powertv/powerhd.smil/chunklist_b2650000_sltur.m3u8
 #EXTINF:-1 ,Первый Музыкальный BY [FHD]
 http://rtmp.one.by:1300
+#EXTINF:-1 ,World Fashion International HD
+http://wfc.bonus-tv.ru/cdn/wfcint/tracks-v1a1/index.m3u8
