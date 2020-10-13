@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,LRT
+#EXTINF:-1,LRT TELEVIZIJA HD
 http://iptv.mrtv.lt:8080/LRT/video.m3u8
 #EXTINF:-1,LNK
 http://iptv.mrtv.lt:8080/LNK/video.m3u8
@@ -7,11 +7,11 @@ http://iptv.mrtv.lt:8080/LNK/video.m3u8
 http://iptv.mrtv.lt:8080/TV3/video.m3u8
 #EXTINF:-1,BTV
 http://iptv.mrtv.lt:8080/BTV/video.m3u8
-#EXTINF:-1,LIETUVOS RYTAS
+#EXTINF:-1,Lietuvos rytas TV
 http://iptv.mrtv.lt:8080/LRYTAS/video.m3u8
 #EXTINF:-1,TV6
 http://iptv.mrtv.lt:8080/TV6/video.m3u8
-#EXTINF:-1,LRTPLIUS
+#EXTINF:-1,LRT PLIUS
 http://iptv.mrtv.lt:8080/LRTPLIUS/video.m3u8
 
 #EXTINF:-1 ,RU TV HD
