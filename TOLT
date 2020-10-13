@@ -7,7 +7,7 @@ http://iptv.mrtv.lt:8080/LNK/video.m3u8
 http://iptv.mrtv.lt:8080/TV3/video.m3u8
 #EXTINF:-1,BTV
 http://iptv.mrtv.lt:8080/BTV/video.m3u8
-#EXTINF:-1 group-title="Lietuviški" tvg-id="lietuvos-rytas-tv" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/lietuvos-rytas-tv.png",Lietuvos Rytas TV
+#EXTINF:-1,Lietuvos Rytas TV
 http://iptv.mrtv.lt:8080/LRYTAS/video.m3u8
 #EXTINF:-1,TV6
 http://iptv.mrtv.lt:8080/TV6/video.m3u8
