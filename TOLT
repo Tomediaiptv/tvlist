@@ -13,12 +13,3 @@ http://iptv.mrtv.lt:8080/LRYTAS/video.m3u8
 http://iptv.mrtv.lt:8080/TV6/video.m3u8
 #EXTINF:-1,LRT PLIUS
 http://iptv.mrtv.lt:8080/LRTPLIUS/video.m3u8
-
-#EXTINF:-1 ,RU TV HD
-http://rutv.gcdn.co/streams/1410_95/playlist.m3u8
-#EXTINF:-1 ,POWER HD
-http://livetv.powerapp.com.tr/powertv/powerhd.smil/chunklist_b2650000_sltur.m3u8
-#EXTINF:-1 ,Первый Музыкальный BY [FHD]
-http://rtmp.one.by:1300
-#EXTINF:-1 ,World Fashion International HD
-http://wfc.bonus-tv.ru/cdn/wfcint/tracks-v1a1/index.m3u8
